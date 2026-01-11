@@ -1,5 +1,7 @@
 ### Hi there 👋🏿
 
-I’m Michael, an aspiring Software Developer and a recent computer science graduate from Carleton University.
+I’m Michael, a Computer Science graduate from Carleton University currently working in operational cryptography.
 
-Over the past two years I’ve been lucky enough to intern for various companies, each working to solve unique problems. As a result, I’ve had to wear a lot of different hats, ranging from working in QA to working on large scale desktop and web applications.
+I spent my university years interning across different industries, doing everything from QA to building large-scale desktop and web apps. That variety gave me a solid technical foundation that I now use to secure critical systems.
+
+Outside of my professional work in cryptography, I enjoy spending my free time building and bringing ideas to life through personal coding projects.
